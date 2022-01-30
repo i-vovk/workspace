@@ -1,0 +1,9 @@
+// These settings override both User and Default settings for the C++ syntax
+{
+    "rulers":
+    [
+        120
+    ],
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true
+}

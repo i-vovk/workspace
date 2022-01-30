@@ -1,0 +1,47 @@
+{
+	"bold_folder_labels": false,
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"font_face": "Source Code Pro",
+	"font_size": 11,
+    // "font_options": ["directwrite"],
+	"highlight_line": false,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+    "rulers":
+    [
+        120,
+	],
+	"line_padding_bottom": -1,
+	"line_padding_top": -1,
+	"match_brackets_angle": true,
+	"scroll_past_end": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+
+	"theme": "DAneo Minimal.sublime-theme",
+	"theme_find_panel_close_hidden": true,
+	"theme_find_panel_font_md": true,
+	"theme_icon_button_highlighted": true,
+	"theme_icons_materialized": true,
+	"theme_sidebar_font_md": true,
+	"theme_sidebar_size_xxs": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"added_words":
+	[
+		"acception",
+		"acceptor",
+		"Destructor",
+		"serializer",
+		"mutex",
+		"Liveness",
+		"rdkafka",
+	],
+	"update_check": true,
+}
